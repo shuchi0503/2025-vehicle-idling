@@ -44,3 +44,5 @@ I analysed zip codes that roughly cover the areas between 60th and 90th street, 
 
 Compared complaints/summons from January to April for each year from 2015 to 2025. I chose these months to account for lack of data for 2025. Otherwise, I would be comparing 12 months of each year to 4 months of 2025 which would not be an accurate analysis. This anayslis can be reproduced at the end of 2025 for all 12 months. 
 
+Write a little more in detail about stripes etc.
+
