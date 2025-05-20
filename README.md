@@ -4,7 +4,7 @@ This data journalism project investigates chnages in vehicle idling patterns in 
 
 ## Byline 
 
-**By** Shuchi Shah
+**By:** Shuchi Shah
 
 **Date:** May 20, 2025
 
@@ -38,7 +38,7 @@ I looked at idling complaints from 60th to 90th street, to see any changes in nu
   
 -OATH
 
-I analysed zip codes that roughly cover the areas between 60th and 90th street, to be as accurately comparable to the 311 analysis as possible.
+I analysed zip codes that roughly cover the areas between 60th and 90th street, to be as accurately comparable to the 311 analysis as possible. I used [this UPS map] to refer to zip codes- (https://www.unitedstateszipcodes.org/)  
 
 ### Analysis
 

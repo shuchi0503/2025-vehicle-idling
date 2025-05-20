@@ -1,0 +1,15 @@
+styles.css
+
+body{
+    background-color: whitesmoke
+    margin: 5px 20px 5px 20px;
+    text-align: center;
+    
+}
+
+.sign{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%; 
+}
