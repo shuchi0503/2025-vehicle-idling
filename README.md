@@ -1,6 +1,6 @@
 # Dip in Idling Cases after Congestion Pricing
 
-This data journalism project investigates chnages in vehicle idling patterns in Manhattan in relation to the congestion zone that went into effect in Janurary 2025. 
+This data journalism project investigates changes in vehicle idling patterns in Manhattan in relation to the congestion zone that went into effect in Janurary 2025. 
 
 ## Byline 
 
@@ -19,13 +19,14 @@ This project uses to two data sets from NYC Open Data:
 
 ### Categories  
 
--311
+- 311
 
 For the purpose of this project, I filtered the data set to get results for complaints regarding vehicle idling from Jan 1, 2015 to May 5, 2025. This is the data set I downloaded and did my analysis on.
 
 It includes the date (Created Date), brief description (Descriptor), location and vehicle type of each complaint. It contains a few different kinds of location data such as zip codes, latitudes and longitudes, cross streets, street names, violaton address etc. For my analysis, I used columns - Cross Street 1 and Cross Street 2. I chose these with the aim of mapping idling patterns as accurately as possible. 
 
--OATH
+- OATH
+- 
 I filtered the data set to get results for summons regarding vehicle idling from Jan 1, 2015 to May 5, 2025. This is the data set I downloaded and did my analysis on.
 
 It includes date, location as well as information about the respondent, hearing details and penalty amounts. This data set also contains multiple kinds of location data such as borough, block, lot, zip codes and street names. This time, I chose zip codes instead of street names due to messy data in the latter column (many have incomplete infomration and have formatting errors).  
