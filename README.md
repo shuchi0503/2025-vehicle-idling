@@ -49,9 +49,9 @@ With the 311 complaint data, I divided the area above the congestion zone, 60th 
 
 ### Judgement Calls and Caveats
 
-I chose to analize the last ten years. There was data available for years prior to that but I felt a decade was a good amount to see any patterns. 
+I chose to analyze the last ten years. There was data available for years prior to that but I felt a decade was a good amount to see any patterns. 
 
-In addition to the source quoted in the story, I spoke to a sustainbility expert who is also working with idling complaint data. He did not want to be named or quoted directly int he story. What he shared with me was helped me understand the administrative process better and so I chose to include it in the story without naming him. 
+In addition to the source quoted in the story, I spoke to a sustainability expert who is also working with idling complaint data. He did not want to be named or quoted directly in the story. What he shared with me helped me understand the administrative process better and so I chose to include it in the story without naming him. 
 
 It takes a few months for idling complaints to be processed and issued a summons or a notice of violation. It is thus likely that the updated data if checked after a few months or at the end of 2025, will have complaints even in the Jan-April period. It would be important to do a follow-up story, potentially with more voices, if the findings still stand in a year's time. 
 
