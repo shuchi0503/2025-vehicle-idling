@@ -26,18 +26,18 @@ For the purpose of this project, I filtered the data set to get results for comp
 It includes the date (Created Date), brief description (Descriptor), location and vehicle type of each complaint. It contains a few different kinds of location data such as zip codes, latitudes and longitudes, cross streets, street names, violaton address etc. For my analysis, I used columns - Cross Street 1 and Cross Street 2. I chose these with the aim of mapping idling patterns as accurately as possible. 
 
 - OATH
-- 
+ 
 I filtered the data set to get results for summons regarding vehicle idling from Jan 1, 2015 to May 5, 2025. This is the data set I downloaded and did my analysis on.
 
 It includes date, location as well as information about the respondent, hearing details and penalty amounts. This data set also contains multiple kinds of location data such as borough, block, lot, zip codes and street names. This time, I chose zip codes instead of street names due to messy data in the latter column (many have incomplete infomration and have formatting errors).  
 
 ### Parameters
 
--311
+- 311
 
 I looked at idling complaints from 60th to 90th street, to see any changes in number of complaints closest to the congestion zone and then as we go further away from it. Since the congestion zone was a major aspect of the analysis, I chose not to include streets further north of 90th street.  
   
--OATH
+- OATH
 
 I analysed zip codes that roughly cover the areas between 60th and 90th street, to be as accurately comparable to the 311 analysis as possible. I used [this UPS map] to refer to zip codes- (https://www.unitedstateszipcodes.org/)  
 
