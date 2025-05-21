@@ -11,10 +11,10 @@ This data journalism project investigates changes in vehicle idling patterns in 
 ## Sources
 
 This project uses to two data sets from NYC Open Data:
-- [311 Complaints] (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
+- [311 Complaints](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data)
   This is a data set of all idling complaints and service requests made in New York City by calling 311.
   
-- [idling DEP- OATH Hearings Division Case Status] (https://data.cityofnewyork.us/City-Government/idling-DEP/4agj-k4jv/about_data)
+- [idling DEP- OATH Hearings Division Case Status](https://data.cityofnewyork.us/City-Government/idling-DEP/4agj-k4jv/about_data)
   This is a data set of alleged vehicle idling violations that go through the city's administrative law court- the NYC Office of Administrative    Trials and Hearings (OATH). In other words, these are summons/Notices of Violations of alleged idling violations from OATH.
 
 ### Categories  
@@ -39,7 +39,7 @@ I looked at idling complaints from 60th to 90th street, to see any changes in nu
   
 - OATH
 
-I analysed zip codes that roughly cover the areas between 60th and 90th street, to be as accurately comparable to the 311 analysis as possible. I used [this UPS map] to refer to zip codes- (https://www.unitedstateszipcodes.org/)  
+I analysed zip codes that roughly cover the areas between 60th and 90th street, to be as accurately comparable to the 311 analysis as possible. I used [this UPS map](https://www.unitedstateszipcodes.org/) to refer to zip codes.   
 
 ### Analysis
 
