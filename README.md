@@ -44,5 +44,31 @@ I analysed zip codes that roughly cover the areas between 60th and 90th street, 
 
 Compared complaints/summons from January to April for each year from 2015 to 2025. I chose these months to account for lack of data for 2025. Otherwise, I would be comparing 12 months of each year to 4 months of 2025 which would not be an accurate analysis. This anayslis can be reproduced at the end of 2025 for all 12 months. 
 
-Write a little more in detail about stripes etc.
+With the 311 complaint data, I divided the area above the congestion zone, 60th to 90th street into stripes like 60th-65th streets, 66-70th streets, 71st-75th streets, 76th-80th streets and finally 80th-90th streets. 
+
+### Judgement Calls and Caveats
+
+I chose to analize the last ten years. There was data available for years prior to that but I felt a decade was a good amount to see any patterns. 
+
+In addition to the source quoted in the story, I spoke to a sustainbility expert who is also working with idling complaint data. He did not want to be named or quoted directly int he story. What he shared with me was helped me understand the administrative process better and so I chose to include it in the story without naming him. 
+
+It takes a few months for idling complaints to be processed and issued a summons or a notice of violation. It is thus likely that the updated data if checked after a few months or at the end of 2025, will have complaints even in the Jan-April period. It would be important to do a follow-up story, potentially with more voices, if the findings still stand in a year's time. 
+
+The 311 complaint data for the specific geographic region and timeline I was analyzing, has very few data points. However, I still chose to include it because it is still a popular and important resource/grievance method for New Yorkers. 
+
+I also spoke to a couple of people who work in the this area but chose not to include direct quotes in the story because I felt they did not add much to the narrative, although it helped for my reporting and understanding of the topic.
+
+### Limitations
+
+The story does not include complaint data from the Citizen Air Complaint Program. This data is not publicly available. I have FOILed for this data but in the mean time found and worked with these alternative data sources. 
+
+The DEP spokesperson could not confirm, deny or comment definitively on whether idling complaints have decreased after congestion pricing went into effect. 
+
+
+### Additional Resources 
+
+[Github Repo](https://github.com/shuchi0503/2025-vehicle-idling)
+
+
+
 
